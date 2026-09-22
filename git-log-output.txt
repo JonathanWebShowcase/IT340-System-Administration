@@ -1,0 +1,25 @@
+commit 0ce38854ae58d1a5d818e84f473dd5e94c24b5c8
+Author: Jonathan <jonathanWebDev985@gmail.com>
+Date:   Tue Sep 22 10:51:28 2026 -0400
+
+    Revert "temporary commit"
+    
+    This reverts commit b84b6d87e04a820058f67cf979d702af4528668e.
+
+commit b84b6d87e04a820058f67cf979d702af4528668e
+Author: Jonathan <jonathanWebDev985@gmail.com>
+Date:   Tue Sep 22 10:49:02 2026 -0400
+
+    temporary commit
+
+commit 0929e87da06069953950fc2cdcd4ad098a4db760
+Author: Jonathan <jonathanWebDev985@gmail.com>
+Date:   Tue Sep 22 10:23:02 2026 -0400
+
+    Edited hostname File Using Nano
+
+commit 22fbb3153a1ed2bfef47dcd16bfbcf36a796912a
+Author: Jonathan <jonathanWebDev985@gmail.com>
+Date:   Tue Sep 22 10:13:46 2026 -0400
+
+    This is the initial commit signaling that everything is within the Lab 3 Directory
